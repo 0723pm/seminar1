@@ -11,4 +11,6 @@ while (count <= numberA)
 {
     Console.Write(count + " ");
     count++;
+    //count += 1;
+    //count = count + 1;
 }
